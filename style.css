@@ -1,0 +1,53 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+
+
+}
+.navbar {
+    display: flex;
+    background-color:#f8f9fa ;
+}
+.nav {
+    display: flex;
+}
+.nav-link {
+    color:grey;
+}
+.active {
+   color: #181819;
+}
+a {
+    color: #181819;
+    margin: 15px;
+    background-color:#f8f9fa ;
+    text-decoration: none;
+}
+div p{
+    display: flex;
+
+}
+.navbar-brand {
+    font-size: 20px;
+    color: black;
+}
+.list p {
+
+    border: 2px solid grey;
+    max-width: 40%;
+    padding: 5px;
+
+}
+div input {
+    width: 35%;
+}
+.list p span {
+    background-color: chartreuse;
+
+}
+form {
+
+}
